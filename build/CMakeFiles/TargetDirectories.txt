@@ -1,0 +1,3 @@
+C:/Users/harri/OneDrive/Desktop/Cyberpunk-Platformer/build/CMakeFiles/CyberpunkPlatformer.dir
+C:/Users/harri/OneDrive/Desktop/Cyberpunk-Platformer/build/CMakeFiles/edit_cache.dir
+C:/Users/harri/OneDrive/Desktop/Cyberpunk-Platformer/build/CMakeFiles/rebuild_cache.dir
